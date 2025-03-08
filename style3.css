@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 99%;
+}
+
+
+
+#Back{
+   
+    position: fixed;
+    background-size: cover;
+    background-image: url(login\ back.webp)
+    
+}
+#main{
+    border: 5px solid transparent ;
+    height: 500px;
+    width: 500px;
+    margin-left: 800px;
+    margin-top: 100px;
+    
+
+}
+#photo{
+    height: 200px;
+    width: 200px;
+    margin-left:  30%;
+    margin-top: 10px;
+}
+#login{
+    height: 40px;
+    width: 50px;
+    display: flex;
+    margin-left: 70px;
+    margin-top: 10px;
+        
+}
+#login1{
+    margin-left: 20px;
+    width: 250px;
+    
+}
+#password{
+    display: flex;
+    height: 40px;
+    width: 50px;
+    margin-left: 70px;
+}
+#login2{
+    width: 250px;
+    margin-left: 20px;
+}
+#mark{
+    margin-left: -60px;
+    margin-top: 30px;
+    height: 15px;
+    display: flex;
+
+}
+#check{
+    margin: 0;
+    padding: 0;
+    margin-left: -110px;
+}
+#button{
+    border: 2px solid black;
+    height: 40px;
+    width: 200px;
+    margin-top: -450px;
+    margin-left: 150px;
+    background-color: grey;
+    
+   
+    
+
+}
+button:hover{
+    font-size: 20px;
+}
+button:active{
+    background-color: rgb(54, 105, 244);
+    
+    
+}
